@@ -1,0 +1,49 @@
+[09:22:21] [info] Source   : [4mhttps://nudge-folio.framer.website/[24m
+[09:22:21] [info] Output   : [38;2;250;178;131mD:\ABDUL\SW\NewFolder\ME\New folder\nocodexport\FramerExport\out\framer-nudge[39m
+[09:22:21] [info] Platform : [38;2;250;178;131mFramer[39m
+[09:22:21] [info] DPR      : [38;2;250;178;131m1[39m
+[09:22:21] [info] Subpages : [38;2;128;128;128mdisabled (pass --subpages to crawl the whole site)[39m
+[09:22:21] [log] Output directory structure created
+[09:22:21] [log] Fetching SSR HTML from https://nudge-folio.framer.website/
+[09:22:22] [ok] SSR HTML fetched (613.8 KB)
+[09:22:22] [log] Launching headless Chromium...
+[09:22:23] [ok] Chromium launched
+[09:22:23] [log] Stealth hardening applied (Chrome 148.0.7778.97)
+[09:22:23] [log] Viewport set to 1440x900 at 1x DPR
+[09:22:23] [log] Blocking 8 tracking domains:
+[09:22:23] [log]   - sentry.io
+[09:22:23] [log]   - www.googletagmanager.com
+[09:22:23] [log]   - connect.facebook.net
+[09:22:23] [log]   - stats.g.doubleclick.net
+[09:22:23] [log]   - google-analytics.com
+[09:22:23] [log]   - events.framer.com
+[09:22:23] [log]   - api.framer.com
+[09:22:23] [log]   - collect.frameranalytics.com
+[09:22:23] [log] Network interception enabled
+[09:22:23] [info] Navigating to https://nudge-folio.framer.website/
+[09:22:25] [ok] Document loaded; waiting for page content and resources
+[09:22:25] [log] Intercepted 1 resources, blocked 0 tracking requests, skipped 0 platform assets
+[09:22:25] [log] Checking DOM-based platform detection...
+[09:22:26] [log] Hydration content found: #main
+[09:22:33] [log] Waiting for font layout and response bodies
+[09:22:33] [log] Resources settled
+[09:22:33] [log] Captured HTML and CSSOM (644.5 KB)
+[09:22:33] [ok] Captured 96 network resources total
+[09:22:33] [log]   CSS: 0 | JS: 69 | Images: 16 | Fonts: 5
+[09:22:34] [log] Browser closed
+[09:22:34] [ok] Queued 100 resource(s) declared in HTML but never requested
+[09:22:34] [log] Starting download of 196 assets and their CSS/HTML dependencies
+[09:22:36] [ok] Downloads complete: 196 succeeded, 91 from cache
+[09:22:36] [ok] Lazy-loaded chunks resolved: 10
+[09:22:36] [log] Starting HTML post-processing...
+[09:22:36] [log] HTML size: 644.5 KB
+[09:22:36] [ok] Index HTML pipeline complete
+[09:22:40] [log] Rewrote URLs in 38 JS/CSS files
+[09:22:40] [ok] Captured asset URLs rewritten to local paths
+[09:22:51] [ok] Formatted 79/79 JS/MJS files
+[09:22:51] [log] Writing index.html (664.4 KB)...
+[09:22:51] [ok] index.html written
+[09:22:51] [log] serve.js written
+[09:22:51] [log] package.json written for serve.js
+[09:22:51] [ok] Output build complete
+[09:22:51] [ok] Export complete!
